@@ -66,5 +66,8 @@
     "rules": {
       "no-useless-computed-key": "off"
     }
+  },
+  "dependencies": {
+    "hydraweb3-js": "^0.0.4"
   }
 }
